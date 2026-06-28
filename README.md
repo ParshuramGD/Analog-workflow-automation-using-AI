@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <sub><i>(Optional: Place your 10-15s demo GIF here to showcase the prompt-to-verification workflow in action!)</i></sub>
+  <sub><i>(Optional: demo GIF)</i></sub>
 </p>
 
 ---
