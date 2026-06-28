@@ -17,9 +17,6 @@
   <img src="images/pipeline.png" width="900" alt="AnalogGPT Hero Pipeline">
 </p>
 
-<p align="center">
-  <sub><i>(Optional: demo GIF)</i></sub>
-</p>
 
 ---
 
