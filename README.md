@@ -3,17 +3,6 @@
 <p align="center">
   <b>Automated Dataset Generation • Parallel ngspice Simulation • Machine Learning • Inverse Analog Design • SPICE Verification</b>
 </p>
-# 🎥 Project Demo
-
-<p align="center">
-  <a href="images/analogAi.mp4">
-      <img src="images/thumbnail.png" width="900">
-  </a>
-</p>
-
-<p align="center">
-<b>Click the thumbnail to watch the complete demonstration.</b>
-</p>
 <p align="center">
   
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.8+">
@@ -22,6 +11,17 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-1.0%2B-blue?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
+</p>
+# 🎥 Project Demo
+
+<p align="center">
+<a href="https://youtu.be/YOUR_VIDEO_LINK](https://youtu.be/KgaJn4aDTjg">
+<img src="images/demo_thumbnail.png" width="900">
+</a>
+</p>
+
+<p align="center">
+<b>▶ Watch the complete project demonstration</b>
 </p>
 
 <p align="center">
