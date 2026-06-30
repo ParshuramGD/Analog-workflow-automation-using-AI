@@ -15,8 +15,8 @@
 # 🎥 Project Demo
 
 <p align="center">
-<a href="https://youtu.be/YOUR_VIDEO_LINK](https://youtu.be/KgaJn4aDTjg">
-<img src="images/demo_thumbnail.png" width="900">
+<a href="https://youtu.be/KgaJn4aDTjg](https://youtu.be/KgaJn4aDTjg">
+<img src="images/thumbnail.png" width="900">
 </a>
 </p>
 
