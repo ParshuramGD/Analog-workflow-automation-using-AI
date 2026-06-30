@@ -3,8 +3,19 @@
 <p align="center">
   <b>Automated Dataset Generation • Parallel ngspice Simulation • Machine Learning • Inverse Analog Design • SPICE Verification</b>
 </p>
+# 🎥 Project Demo
 
 <p align="center">
+  <a href="images/analogAi.mp4">
+      <img src="images/thumbnail.png" width="900">
+  </a>
+</p>
+
+<p align="center">
+<b>Click the thumbnail to watch the complete demonstration.</b>
+</p>
+<p align="center">
+  
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.8+">
   <img src="https://img.shields.io/badge/ngspice-V30%2B-orange?style=for-the-badge" alt="ngspice">
   <img src="https://img.shields.io/badge/XGBoost-1.5%2B-red?style=for-the-badge" alt="XGBoost">
